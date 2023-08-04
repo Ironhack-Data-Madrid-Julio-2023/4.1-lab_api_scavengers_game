@@ -1,0 +1,23 @@
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+/.idea
+*.idea
+*.xml
+**/*.xml
+*.iml
+*.weights
+*.log
+/*.log
+selenium/
+
+contraseñas.txt
+pass_.py = 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
+password.txt = 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
+password.py = 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   
+
+.env
+*.hdf5
+*.h5
+*.parquet
+
