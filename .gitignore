@@ -12,9 +12,9 @@ __pycache__
 selenium/
 
 contraseñas.txt
-pass_.py = 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
-password.txt = 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
-password.py = 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   
+pass_.py = ghp_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
+password.txt = ghp_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
+password.py = ghp_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   
 
 .env
 *.hdf5
